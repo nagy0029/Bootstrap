@@ -1,0 +1,40 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Expanded|Faustina');
+</style>
+
+html,body{
+            background-color: #50E853;
+        }
+
+body{
+    font-family: 'Encode Sans Expanded', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    background-color: #65FF93;
+}
+
+nav{
+    background-color: #50E853;
+}
+
+a{
+    font-family: 'Encode Sans Expanded', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+h1{
+    font-family: 'Faustina', 'Georgia1', 'Georgia', serif;
+}
+
+h2{
+    font-family: 'Faustina', 'Georgia1', 'Georgia', serif;
+}
+
+nav li>a:hover,
+nav li>a:active{
+    color: #222;
+}
+
+p{
+    font-family: 'Encode Sans Expanded', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+p.card-text{
+    font-family: 'Encode Sans Expanded', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
